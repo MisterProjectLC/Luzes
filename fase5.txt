@@ -1,0 +1,9 @@
+7 12 12
+Labirinto
+WWWWWWWWWWWW
+W    WWW   W
+WVWW WWWWVWW
+W WW>     WW
+WWWWWWW   WW
+W    <    WW
+WWWWWWWWWWWW
